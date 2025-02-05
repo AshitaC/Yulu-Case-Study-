@@ -61,3 +61,27 @@ Bi-Variate Analysis
 ANNOVA
 
 Chi-square
+
+**Insights -**
+
+More number of bikes rented when weather is clear with less clouds
+
+Positive correlation with temperature, People prefer to rent cycle when temperature range 13-27 Celsius.
+
+Negative correlation with humidity, For humdity less than 20, count of rent is very very low.
+
+Rent count is more when windspeed is less than 20.
+
+A 2 sample t-test reveals that there is not sufficient evidence to prove any significant impact of working and non working days on the bike rented.
+
+ANOVA test confirm that the impact of weather and seasons on the number of bikes rented is statitically significant.
+
+A Chi-2 test on categorcial variables result in statisitcally significant relation between weather and seasons.
+
+**Recommendations -**
+
+Since casual users are very less, the company should focus on marketing strategy to bring more customers. eg. first time user discounts etc
+
+On non working days Yulu can offer promotional deals on activities like city exploration, some health campaigns etc
+
+In heavy rains as rent count is very low , the company can introduce a bike having shade or protection from rain.
